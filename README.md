@@ -1,1 +1,2 @@
-# New1
+Hi all
+I begin to learn AI programing and I am willing to improve my talent. Let's begin... 
